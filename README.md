@@ -26,4 +26,4 @@
   <img src="animate.gif">
 </p>
 
-<p align="center">Um desafio da Rocketseat onde tivemos que componentizar a aplicação e compartilhar um estado entre dois componentes! 🚀🚀🚀</p>
+<p align="center">Um desafio da Rocketseat onde tivemos que componentizar a aplicação e compartilhar um estado entre dois componentes afim de isolar as responsabilidades e facilitar a manutenção do código. 🚀🚀🚀</p>
